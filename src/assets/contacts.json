@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "Michael",
+        "lastName": "GilletteBerg",
+        "email": "bigmike6286@mail.fresnostate.edu",
+        "phone": "(559)682-2103",
+        "editing": false 
+    },
+    {
+        "id": 2,
+        "firstName": "Dr.",
+        "lastName": "Lupo",
+        "email": "fortnite@gmail.com",
+        "phone": "(559)405-5555",
+        "editing": false 
+    },
+    {
+        "id": 3,
+        "firstName": "Jaseh",
+        "lastName": "Onfroy",
+        "email": "extension@yahoo.com",
+        "phone": "(559)222-6662",
+        "editing": false 
+    }
+]
